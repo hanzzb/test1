@@ -7,3 +7,4 @@ class calculator :
 
 def main() :
     print('main')
+    print('1')
