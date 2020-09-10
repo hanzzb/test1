@@ -8,4 +8,4 @@ class calculator :
 def main() :
     print('main')
     print('1')
-    print('3')
+    print('4')
